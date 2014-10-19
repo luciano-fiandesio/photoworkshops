@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "photoworkshops",
+    "packageName": "com.lf.photoworkshops",
+    "packageFolder": "com/lf/photoworkshops",
+    "authenticationType": "cookie",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "nosql",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
